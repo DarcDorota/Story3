@@ -1,1 +1,2 @@
 This is my story long long
+This is merging branch
